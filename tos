@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Chatlith — Terms of Service</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            max-width: 800px; 
+            margin: 0 auto; 
+            padding: 20px; 
+            line-height: 1.6; 
+            color: #333;
+        }
+        h1 { 
+            color: #2c3e50; 
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 10px;
+        }
+        h2 { 
+            color: #34495e; 
+            margin-top: 30px; 
+            border-left: 4px solid #3498db;
+            padding-left: 15px;
+        }
+        h3 { 
+            color: #7f8c8d; 
+            margin-top: 20px;
+        }
+        .contact-info {
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-radius: 8px;
+            border-left: 4px solid #28a745;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .last-updated {
+            font-style: italic;
+            color: #6c757d;
+            margin-bottom: 20px;
+        }
+        code { background:#f1f1f1; padding:2px 4px; border-radius:4px; }
+    </style>
+</head>
+<body>
+    <h1>Terms of Service — Chatlith</h1>
+    <p class="last-updated">Last Updated: 08.09.2025</p>
+
+    <p>These Terms of Service ("<strong>Terms</strong>") constitute an agreement between you ("<strong>User</strong>", "you", or "your") and <strong>Chatlith</strong> ("<strong>Chatlith</strong>", "we", "us", or "our"), operated by <strong>Robert Pozsar</strong>. By downloading, installing, accessing, or using the Chatlith mobile application (the "<strong>App</strong>"), you agree to be bound by these Terms. If you do not agree with these Terms, do not use the App.</p>
+
+    <h2>1. Eligibility</h2>
+    <ul>
+        <li>You must be at least <strong>13 years old</strong> to create an account or use the App. By using the App you represent and warrant that you are 13 or older.</li>
+        <li>Use of the App by persons under the age of 18 should be with parental or guardian consent where required by local law.</li>
+    </ul>
+
+    <h2>2. Account Registration</h2>
+    <ul>
+        <li>When you create an account you agree to provide accurate and complete information. You are responsible for keeping your account credentials secure.</li>
+        <li>We are not required to verify the accuracy of account information. We recommend using a valid email address for account recovery.</li>
+        <li>You are solely responsible for any activity that occurs under your account.</li>
+    </ul>
+
+    <h2>3. User Content & Ownership</h2>
+    <ul>
+        <li>You retain ownership of content you submit or generate in the App (including conversation messages) ("<strong>User Content</strong>").</li>
+        <li>By using the App you grant Chatlith a limited, non-exclusive, worldwide, royalty-free license to process, host, and transmit your User Content to third-party providers (such as OpenAI and Firebase) for the purpose of providing the App’s services. This license is solely for operation, improvement, and maintenance of the App and its features.</li>
+        <li>Chatlith will <strong>not</strong> use your private conversation content for marketing or publicly publish it without your explicit consent. If you explicitly submit screenshots or feedback for promotional use, you grant Chatlith permission to use those submitted materials for marketing and promotional purposes.</li>
+        <li>Some third-party services used by the App (for example OpenAI) may process or retain conversation data in accordance with their own policies. See our Privacy Policy for details.</li>
+    </ul>
+
+    <h2>4. Prohibited Conduct</h2>
+    <p>You must not, and must not assist or enable others to:</p>
+    <ul>
+        <li>Use the App to harass, stalk, threaten, defame, abuse, hate, or intimidate any person or group;</li>
+        <li>Exploit, reverse-engineer, interfere with, circumvent, or attempt to bypass the App’s security or restrictions, including but not limited to hacking, modding, or tampering with the App or its servers;</li>
+        <li>Prevent ads from displaying, bypass ad-watching, or manipulate ad systems and rewards;</li>
+        <li>Post server URLs, credentials, or other sensitive backend access information publicly or attempt to contact or access our servers directly;</li>
+        <li>Perform large-scale data scraping, datamining, or automated extraction of User Content or App data without explicit permission;</li>
+        <li>Spam users, distribute malware, or engage in any activity that degrades the experience for other users;</li>
+        <li>Use the App to commit illegal acts or to facilitate wrongdoing.</li>
+    </ul>
+    <p>Violation of these rules may result in immediate suspension or termination of your account and access to the App.</p>
+
+    <h2>5. Subscriptions, Payments & In-App Purchases</h2>
+    <ul>
+        <li><strong>Current status:</strong> In-app purchases (IAP), subscriptions (Premium and Ultra), and their billing flows are integrated with Google Play and will be available once Google has reviewed and approved our app. While the App is awaiting final approval from Google, full IAP functionality may not be available. We will update the App and these Terms when billing becomes active.</li>
+        <li>When active, subscriptions will renew automatically via Google Play until cancelled. All billing, payment processing, and refunds are handled by Google Play in accordance with Google's policies.</li>
+        <li>You are responsible for managing and cancelling subscriptions through your Google Play account settings.</li>
+        <li>We may offer promotional, temporary, or trial access to paid features; such offers are governed by the specific terms provided at the time of the offer.</li>
+    </ul>
+
+    <h2>6. Virtual Currency (Liths)</h2>
+    <ul>
+        <li>The App uses a virtual currency called <strong>Liths</strong>. Liths have no monetary value and are not redeemable for cash or any real-world value.</li>
+        <li>Liths are non-transferable between users unless explicitly allowed by the App, and are non-refundable except where required by law or by Google Play policy.</li>
+        <li>We may modify, invalidate, or remove Liths at our discretion (for example to fix errors or abuse).</li>
+    </ul>
+
+    <h2>7. Content, Advice & Disclaimers</h2>
+    <ul>
+        <li>The App provides AI-generated conversational simulations and educational/self-improvement tools. Chatlith is intended for entertainment and personal growth only.</li>
+        <li><strong>Not professional advice:</strong> The content generated by the App, including any "therapist", "motivational", or similar AI personas, is not medical, psychological, legal, or professional advice. Do not rely on the App for professional decision-making. If you need professional help, contact a qualified professional.</li>
+        <li><strong>No liability for user actions:</strong> You are solely responsible for actions you take based on AI output. Chatlith is not liable for actions you take after interacting with the App, including any harm or damage caused by following or acting on AI-generated suggestions.</li>
+        <li><strong>AI outputs:</strong> AI responses may occasionally be offensive, inaccurate, or inappropriate. We strive to moderate and improve outputs, but we cannot guarantee that all content will be appropriate. Use common sense; do not follow dangerous or unlawful suggestions from an AI.</li>
+    </ul>
+
+    <h2>8. Limitation of Liability & Indemnification</h2>
+    <ul>
+        <li><strong>To the maximum extent permitted by applicable law:</strong> Chatlith, its officers, agents, employees, affiliates, and licensors will not be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or relating to your access to or use of the App, even if we have been advised of the possibility of such damages.</li>
+        <li>Our total liability for direct damages arising from these Terms or the App will not exceed the amount you paid to Chatlith in the twelve (12) months preceding the claim, or fifty euros (€50) if you have not paid us during that period.</li>
+        <li>You agree to indemnify, defend, and hold harmless Chatlith and its officers, employees and agents from any claims, liabilities, damages, losses, and expenses (including reasonable legal fees) arising from your violation of these Terms or your use of the App.</li>
+    </ul>
+
+    <h2>9. Account Suspension & Termination</h2>
+    <ul>
+        <li>We reserve the right to suspend or terminate accounts at our discretion for violations of these Terms, abuse, fraud, or other harmful behavior. We may remove access to the App immediately without notice.</li>
+        <li>Termination will not relieve you of obligations incurred prior to termination (including payment obligations, if applicable) nor limit our rights to pursue legal remedies.</li>
+    </ul>
+
+    <h2>10. Third-Party Services & Open Source Licenses</h2>
+    <ul>
+        <li>The App uses third-party services (including OpenAI, Firebase, Google Play, and others). Use of those third-party services is subject to their own terms and privacy policies.</li>
+        <li>Open source and third-party licenses used by the App are included in the App's settings or About page. You may also find a list of used libraries and their licenses on our project page: <a href="https://github.com/Chatlith-dev/Chatlith" target="_blank">https://github.com/Chatlith-dev/Chatlith</a>.</li>
+    </ul>
+
+    <h2>11. Changes to These Terms</h2>
+    <ul>
+        <li>We may update these Terms from time to time. If we make material changes, we will notify you by posting the new Terms in the App and updating the "Last Updated" date above. If you continue to use the App after changes are posted, you accept the updated Terms.</li>
+    </ul>
+
+    <h2>12. Governing Law & Dispute Resolution</h2>
+    <ul>
+        <li>These Terms are governed by and construed in accordance with the laws of <strong>Romania</strong>.</li>
+        <li>Any disputes arising from or relating to these Terms or the App will be subject to the exclusive jurisdiction of the courts located in Romania.</li>
+    </ul>
+
+    <h2>13. Severability & Entire Agreement</h2>
+    <ul>
+        <li>If any provision of these Terms is held to be invalid or unenforceable, that provision will be enforced to the maximum extent permitted and the remaining provisions will remain in full force and effect.</li>
+        <li>These Terms and our Privacy Policy constitute the entire agreement between you and Chatlith regarding your use of the App.</li>
+    </ul>
+
+    <h2>14. Contact</h2>
+    <div class="contact-info">
+        <p>If you have questions about these Terms, please contact us:</p>
+        <p><strong>Email:</strong> <a href="mailto:chatlith.dev@gmail.com">chatlith.dev@gmail.com</a></p>
+        <p><strong>Operator:</strong> Chatlith, operated by Robert Pozsar</p>
+        <p><strong>Account Deletion Form:</strong> <a href="https://forms.gle/imDmDuhUiLR7sf1p8" target="_blank">https://forms.gle/imDmDuhUiLR7sf1p8</a></p>
+    </div>
+
+    <p style="margin-top:20px;">By using Chatlith you acknowledge that you have read and agree to these Terms.</p>
+</body>
+</html>
